@@ -3,4 +3,12 @@ public class Student{
     private String st_name;
     private String st_classs;
     
+
+
+
+                             public void print(){
+//TBD
+
+  }
+
 }
