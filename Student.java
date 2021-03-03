@@ -5,9 +5,8 @@ public class Student{
     
 
 
-
-                             public void print(){
-//TBD
+         public void print(){
+              System.out.println("Prointing Studetn info. ")
 
   }
 
